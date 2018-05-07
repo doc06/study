@@ -34,6 +34,10 @@ http://coliru.stacked-crooked.com/a/acd80cfae6349db8
 
 
 
+# dynamic_deref of unique_ptr
+
+http://coliru.stacked-crooked.com/a/fa9305713f767d74
+
 
 # compilator
 
