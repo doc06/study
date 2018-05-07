@@ -6,7 +6,7 @@ http://coliru.stacked-crooked.com/a/deb9d2c9ac21ba1d
 
 
 
-# Visitor Desing Pattern
+# Visitor Design Pattern
 
 Visitor design pattern - without pointer
 
