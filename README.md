@@ -10,6 +10,10 @@ http://coliru.stacked-crooked.com/a/deb9d2c9ac21ba1d
 http://coliru.stacked-crooked.com/a/fa8d53be5fdfd889
 
 
+# deref
+
+http://coliru.stacked-crooked.com/a/9e112b6b8ffd7f93
+
 
 # Visitor Design Pattern
 
